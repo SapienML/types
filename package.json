@@ -6,14 +6,13 @@
   "typings": "dist/src/main.d.ts",
   "url": "",
   "scripts": {
-    "pretest": "tsc",
+    "pretest": "",
     "test": "mocha",
     "watch": "mocha-typescript-watch",
     "prepare": "",
     "build": "webpack",
     "release": "standard-version && npm pack",
-    "publish": "npm unpublish --force",
-    "t": "node-ts ./test.ts"
+    "upload": "npm login && npm publish --force"
   },
   "repository": {
     "type": "git",
