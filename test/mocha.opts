@@ -1,0 +1,2 @@
+--compilers ts:ts-node/register -r tsconfig-paths/register
+test/*.test.ts

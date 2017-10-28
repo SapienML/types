@@ -1,0 +1,10 @@
+.DS_store
+node_modules
+.vscode
+temp
+.nyc_output
+coverage
+.tscache
+build
+dist
+.tscache
