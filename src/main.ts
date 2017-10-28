@@ -1,2 +1,2 @@
-export { Layer, Dense } from '@layers';
-console.log("SapienML loaded : layers")
+
+console.log("SapienML loaded : <category>")
