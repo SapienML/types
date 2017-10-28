@@ -5,14 +5,13 @@
       "removeComments": true,
       "preserveConstEnums": true,
       "experimentalDecorators":true,
-    
       "outDir": "dist",
       "rootDir":".",
       "sourceMap": true,
       "target":"es5",
       "baseUrl": ".","paths": {
         // "@types" : ["src/core/types/index.ts"],
-        "@layers" : ["src/core/layers/index.ts"]
+        // "@layers" : ["src/core/layers/index.ts"]
       },
       "declaration": true
     },
