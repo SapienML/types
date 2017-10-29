@@ -3,8 +3,9 @@
 
 The Missing Ai / Machine Learning Library for JavaScript built by and for Homo Sapiens.
 
+# ABC
+This repo is the template for creating SapienML plugins. Clone this repo and starting writing plugins.
 
 
 ### License
-
-Copyright (c) [Daksh Miglani](https://dak.sh), Licensed to MIT
+MIT
