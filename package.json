@@ -62,6 +62,7 @@
     "delete-empty": "^1.0.1",
     "dts-bundle": "^0.7.3",
     "grunt-contrib-uglify": "^3.0.1",
+    "grunt-webpack": "^3.0.2",
     "gulp": "^3.9.1",
     "gulp-typescript": "^3.2.3",
     "junaidtest": "^0.2.10-rc.1",
