@@ -9,7 +9,7 @@
     "test": "mocha",
     "watch": "mocha-typescript-watch",
     "build": "grunt",
-    "release": "standard-version && npm pack",
+    "release": "standard-version",
     "upload": "npm login && npm publish --force"
   },
   "repository": {
