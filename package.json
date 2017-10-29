@@ -6,10 +6,8 @@
   "typings": "dist/src/main.d.ts",
   "url": "",
   "scripts": {
-    "pretest": "",
     "test": "mocha",
     "watch": "mocha-typescript-watch",
-    "prepare": "",
     "build": "grunt",
     "release": "standard-version && npm pack",
     "upload": "npm login && npm publish --force"
