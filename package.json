@@ -1,6 +1,6 @@
 {
-  "name": "@sapien/core",
-  "version": "0.2.15-rc.1",
+  "name": "@sapien/package-name",
+  "version": "0.0.0",
   "description": "The Missing AI / ML Library for JavaScript.",
   "main": "dist/bundle.min.js",
   "typings": "dist/src/main.d.ts",
