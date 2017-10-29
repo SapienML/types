@@ -10,7 +10,7 @@
     "test": "mocha",
     "watch": "mocha-typescript-watch",
     "prepare": "",
-    "build": "webpack",
+    "build": "grunt",
     "release": "standard-version && npm pack",
     "upload": "npm login && npm publish --force"
   },
