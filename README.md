@@ -4,8 +4,8 @@
 ---
 The Missing Ai / Machine Learning Library for JavaScript built by and for Homo Sapiens.
 
-## why this repo?
-This repo is the template for creating SapienML plugins or for Any other npm packange with webpack. Fork this repo and starting writing plugins.
+## Quickstart
+ - `npm install @sapien/core.types`
 
 ---
 ### License
