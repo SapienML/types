@@ -1,6 +1,6 @@
 {
   "name": "@sapien/types",
-  "version": "0.0.0-beta.1",
+  "version": "0.0.0-beta.3",
   "description": "The Missing AI / ML Library for JavaScript.",
   "main": "dist/main.js",
   "typings": "dist/main.d.ts",
@@ -10,7 +10,7 @@
     "watch": "mocha-typescript-watch",
     "build": "grunt",
     "release": "standard-version",
-    "upload": "npm login && npm publish --force"
+    "upload": "echo Run 'npm login' before running this script && npm publish --access=public"
   },
   "repository": {
     "type": "git",
